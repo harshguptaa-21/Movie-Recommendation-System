@@ -83,3 +83,10 @@ Add a screenshot of the running Streamlit app to `docs/` and link it here after 
 - Recommendations work best for users and movies represented in the training sample.
 - The current model does not use movie descriptions, posters, or detailed content features.
 - The app runs locally and is intended as a learning project.
+
+## Application Screenshot
+
+Below is the Streamlit interface showing the
+Top 10 movie recommendations.
+
+![Movie Recommendation System](screenshots/app.png)
