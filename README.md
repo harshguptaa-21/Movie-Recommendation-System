@@ -73,9 +73,6 @@ Open the local URL shown in the terminal (usually `http://localhost:8501`), ente
 
 The ranking evaluation used validation ratings for known user/movie IDs. Recommendation evaluation used 100 eligible users. These results show that the system works, but recommendation accuracy has room for improvement.
 
-## Screenshots
-
-Add a screenshot of the running Streamlit app to `docs/` and link it here after saving it.
 
 ## Limitations
 
