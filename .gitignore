@@ -1,0 +1,16 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Dataset and generated files
+data/
+models/
+outputs/
+
+# Editor and system files
+.vscode/
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
